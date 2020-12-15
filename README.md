@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-  <a href="https://www.linkedin.com/in/visvash-attri/"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
+  <a href="https://www.linkedin.com/in/visvash-attri/"><img src="https://www.flaticon.com/free-icon/linkedin_174857"></a>  •
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
   <a href="mailto:visvashattri303@gmail.com">Email Me!</a> •
   <a href="https://github.com/visvash/visvash/blob/main/README.md">Work README</a> •
@@ -11,14 +11,13 @@
 
 ---
 
-- 🔭 I’m currently working on my health and making customers happy
-- 🌱 I’m currently [learning AWS](https://www.swyx.io/writing/hello-aws/)
-- 👯 I’m looking to collaborate on a potential podcast
-- 🤔 I’m looking for help with youtube/site redesign
-- 💬 Ask me about [Svelte](https://www.swyx.io/writing/svelte-why/) and [React](https://www.swyx.io/speaking/react-hooks/) and [AWS Amplify](https://www.swyx.io/writing/hello-aws)!
-- 📫 How to reach me: `swyx at hey dot com`
+- 🔭 I’m currently working on my health.
+- 🌱 I’m currently [learning Python](https://www.coursera.org/learn/python-data/home/welcome)
+- 👯 I’m open for work opportunities.
+- 🤔 I’m waiting for my college to reopen!
+- 💬 Ask me about [Terrace Farming Robot](https://github.com/visvash/DIC_Terrace_Farming)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf) on suspicion of being a spy
+- ⚡ Fun fact: I am 19 years old.
 
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
