@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/visvash-attri/"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
   <a href="mailto:visvashattri303@gmail.com">Email Me!</a> •
-  <a href="https://github.com/sw-yx/README">Work README</a> •
-  <a href="https://www.google.com/search?q=crush+on+me+quotes+funny&rlz=1C1CHBD_enIN875IN875&sxsrf=ALeKk02f6lDZxcckeJ1YTxFYIR3LytTF1Q:1608066100239&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjr8beF8dDtAhUzzTgGHflXAowQ_AUoAXoECBEQAw&biw=1536&bih=754#imgrc=9Rih_k_Ocm5oRM">Tinder</a>
+  <a href="https://github.com/visvash/visvash/blob/main/README.md">Work README</a> •
+  <a href="https://www.homemade-gifts-made-easy.com/image-files/funny-love-quotes-vitamin-me.png">Tinder</a>
 </p>
 
 ---
