@@ -1,14 +1,12 @@
-
-
 [![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/visvash?tab=repositories)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://www.linkedin.com/in/visvash-attri/"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
-  <a href="https://swyx.io">Blog</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
+  <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
+  <a href="mailto:visvashattri303@gmail.com">Email Me!</a> •
   <a href="https://github.com/sw-yx/README">Work README</a> •
-  <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
+  <a href="https://www.google.com/search?q=crush+on+me+quotes+funny&rlz=1C1CHBD_enIN875IN875&sxsrf=ALeKk02f6lDZxcckeJ1YTxFYIR3LytTF1Q:1608066100239&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjr8beF8dDtAhUzzTgGHflXAowQ_AUoAXoECBEQAw&biw=1536&bih=754#imgrc=9Rih_k_Ocm5oRM">Tinder</a>
 </p>
 
 ---
