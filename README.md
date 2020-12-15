@@ -4,8 +4,7 @@
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://www.linkedin.com/in/visvash-attri/">LinkedIn</a>  •
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
-  <a href="mailto:visvashattri303@gmail.com">Email Me!</a> •
-  <a href="https://github.com/visvash/visvash/blob/main/README.md">Work README</a> •
+  <a href="mailto:visvashattri303@gmail.com">Email</a> •
   <a href="https://www.homemade-gifts-made-easy.com/image-files/funny-love-quotes-vitamin-me.png">Tinder</a>
 </p>
 
