@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-  <a href="https://www.linkedin.com/in/visvash-attri/"><img src="https://www.flaticon.com/free-icon/linkedin_174857"></a>  •
+  <a href="https://www.linkedin.com/in/visvash-attri/">LinkedIn</a>  •
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
   <a href="mailto:visvashattri303@gmail.com">Email Me!</a> •
   <a href="https://github.com/visvash/visvash/blob/main/README.md">Work README</a> •
