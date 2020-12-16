@@ -16,7 +16,6 @@
 </p>
 
 ---
-[![Spotify](https://https://novatorem-swart-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31thsh3zgsfsam7qs33s3dcesn7a)
 
 - 🌱 I’m currently [learning Python](https://www.coursera.org/learn/python-data/home/welcome)
 - 💻 I’m open for work opportunities.
@@ -41,6 +40,7 @@
 
 <a href="https://github.com/visvash/visvash/issues/new?assignees=&labels=&template=recommend-visvash-attri.md&title=">Give Recommendation!</a>
 
-  
+ 
 </body>
 </html>
+[![Spotify](https://https://novatorem-swart-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31thsh3zgsfsam7qs33s3dcesn7a)
