@@ -7,7 +7,7 @@
 <a href="https://github.com/visvash?tab=repositories"><img border="0" alt="Hello, I am Visvash Attri." src="https://user-images.githubusercontent.com/44068838/102277599-879acc00-3f4e-11eb-99df-5778f1fbbd9d.png" width="1250" height="150"></a>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=visvash) •  
+  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://www.linkedin.com/in/visvash-attri/">LinkedIn</a>  •
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
   <a href="mailto:visvashattri303@gmail.com">Email</a> •
@@ -20,9 +20,7 @@
 - 🌱 I’m currently [learning Python](https://www.coursera.org/learn/python-data/home/welcome)
 - 👯 I’m open for work opportunities.
 - 🤔 I’m waiting for my college to reopen!
-- 💬 Ask me about [Terrace Farming Robot](https://github.com/visvash/DIC_Terrace_Farming)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am 19 years old.
 
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
