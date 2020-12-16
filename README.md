@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-  <a href="https://www.linkedin.com/in/visvash-attri/" title="Go to W3Schools HTML section"><button class="button button1">LinkedIn</button></a>  •
+  <a href="https://www.linkedin.com/in/visvash-attri/"><button>LinkedIn</button></a>  •
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
   <a href="mailto:visvashattri303@gmail.com">Email</a> •
   <a href="https://www.homemade-gifts-made-easy.com/image-files/funny-love-quotes-vitamin-me.png">Tinder</a>
