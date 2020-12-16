@@ -1,41 +1,6 @@
 <html>
   
 <head>
-.button {
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #4CAF50;
-}
-
-.button1:hover {
-  background-color: #4CAF50;
-  color: white;
-}
-
-.button2 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #008CBA;
-}
-
-.button2:hover {
-  background-color: #008CBA;
-  color: white;
-}
-
 </head>
 
 <body>
@@ -43,7 +8,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-  <a href="https://www.linkedin.com/in/visvash-attri/"><button>LinkedIn</button></a>  •
+  <a href="https://www.linkedin.com/in/visvash-attri/">LinkedIn</a>  •
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
   <a href="mailto:visvashattri303@gmail.com">Email</a> •
   <a href="https://www.homemade-gifts-made-easy.com/image-files/funny-love-quotes-vitamin-me.png">Tinder</a>
