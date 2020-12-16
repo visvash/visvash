@@ -45,4 +45,3 @@
  
 </body>
 </html>
-[![Spotify](https://https://novatorem-swart-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31thsh3zgsfsam7qs33s3dcesn7a)
