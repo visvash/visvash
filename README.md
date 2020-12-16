@@ -41,16 +41,5 @@
 <a href="https://github.com/visvash/visvash/issues/new?assignees=&labels=&template=recommend-visvash-attri.md&title=">Give Recommendation!</a>
 
 ---
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem-git-master.visvash.vercel.app/api/spotify)](https://open.spotify.com/user/31thsh3zgsfsam7qs33s3dcesn7a)
-
-  </td>
-  <td width="50%">
-
-<br>
- 
 </body>
 </html>
