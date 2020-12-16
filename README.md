@@ -17,10 +17,11 @@
 
 ---
 
-- 🌱 I’m currently [learning Python](https://www.coursera.org/learn/python-data/home/welcome)
-- 💻 I’m open for work opportunities.
-- 📅 I’m waiting for my college to reopen!
-- 💪🏻 Pronouns: he/him
+<img src="https://user-images.githubusercontent.com/44068838/102390350-4f50c780-3ffa-11eb-8fbe-aade00937c60.gif" align="right" width=80/>
+<h3> About Me </h3>
+<p>I'm currently learning Python.
+I'm open for work opportunities.
+I’m waiting for my college to reopen!</p>
 
 
   ### My Certifications
@@ -28,9 +29,10 @@
     <a href="https://www.coursera.org/account/accomplishments/verify/YUQ4PG6W2BUD">Neural Networks & Deep Learning</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/VYBTNSED6J52">Hyparameter Tuning, Regularization & Optimization</a><br>
     <a href="https://www.coursera.org/account/accomplishments/verify/E7R4CT7R6FF8">Getting Started With Python</a> •
-    <a href="https://www.coursera.org/account/accomplishments/verify/6VT9V8TJAS6V">SQL For Data Science</a> •
+    <a href="https://www.coursera.org/account/accomplishments/verify/W42Q8748XXEK">Python Data Structures</a> •
     <a href="https://www.udemy.com/certificate/UC-da98546b-09e1-47d0-8269-ef81c9e9abd5/">Python For DS & ML Bootcamp</a><br>
     <a href="https://www.coursera.org/account/accomplishments/specialization/FQG294ZB7JE8">Project Management Specialization</a> •
+    <a href="https://www.coursera.org/account/accomplishments/verify/6VT9V8TJAS6V">SQL For Data Science</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/9SDA8R2678YQ">AI For Everyone</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/YX4GY3RAZKRN">Materials Data Sciences & Informatics</a>
   </p>
