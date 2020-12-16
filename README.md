@@ -1,4 +1,3 @@
-[!DOCTYPE html]
 <html>
 <body>
 <a href="https://github.com/visvash?tab=repositories"><img border="0" alt="Hello, I am Visvash Attri." src="https://user-images.githubusercontent.com/44068838/102277599-879acc00-3f4e-11eb-99df-5778f1fbbd9d.png" width="1250" height="120"></a>
