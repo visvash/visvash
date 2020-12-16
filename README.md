@@ -40,6 +40,8 @@
 
 <a href="https://github.com/visvash/visvash/issues/new?assignees=&labels=&template=recommend-visvash-attri.md&title=">Give Recommendation!</a>
 
+---
+[![Spotify](https://https://novatorem-swart-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31thsh3zgsfsam7qs33s3dcesn7a)
  
 </body>
 </html>
