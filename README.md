@@ -16,11 +16,10 @@
 
 ---
 
-- 🔭 I’m currently working on my health.
 - 🌱 I’m currently [learning Python](https://www.coursera.org/learn/python-data/home/welcome)
-- 👯 I’m open for work opportunities.
-- 🤔 I’m waiting for my college to reopen!
-- 😄 Pronouns: he/him
+- 💻 I’m open for work opportunities.
+- 📅 I’m waiting for my college to reopen!
+- 💪🏻 Pronouns: he/him
 
 
   ### My Certifications
