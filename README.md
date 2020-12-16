@@ -11,10 +11,12 @@
   <a href="https://www.linkedin.com/in/visvash-attri/">LinkedIn</a>  •
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
   <a href="mailto:visvashattri303@gmail.com">Email</a> •
-  <a href="https://www.homemade-gifts-made-easy.com/image-files/funny-love-quotes-vitamin-me.png">Tinder</a>
+  <a href="https://www.homemade-gifts-made-easy.com/image-files/funny-love-quotes-vitamin-me.png">Tinder</a> •
+  <img src="https://img.shields.io/github/followers/visvash?label=Follow&style=social">
 </p>
 
 ---
+[![Spotify](https://https://novatorem-swart-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31thsh3zgsfsam7qs33s3dcesn7a)
 
 - 🌱 I’m currently [learning Python](https://www.coursera.org/learn/python-data/home/welcome)
 - 💻 I’m open for work opportunities.
