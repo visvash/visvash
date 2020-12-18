@@ -12,7 +12,8 @@
   <a href="https://www.facebook.com/visvash.attri/">Facebook</a> •
   <a href="mailto:visvashattri303@gmail.com">Email</a> •
   <a href="https://www.homemade-gifts-made-easy.com/image-files/funny-love-quotes-vitamin-me.png">Tinder</a> •
-  <img src="https://img.shields.io/github/followers/visvash?label=Follow&style=social">
+  <img src="https://img.shields.io/github/followers/visvash?label=Follow&style=social"> •
+  <a href="https://www.hackerrank.com/Darth_C0der" title="Darth_c0der"><img border="0" alt="HackerRank" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/lqlkg85sw4sgmp2xvznh" width="25"  height="25"></a>
 </p>
 
 ---
@@ -28,6 +29,7 @@ I’m waiting for my college to reopen!</p>
   <p align="center">
     <a href="https://www.coursera.org/account/accomplishments/verify/YUQ4PG6W2BUD">Neural Networks & Deep Learning</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/VYBTNSED6J52">Hyparameter Tuning, Regularization & Optimization</a><br>
+    <a href="https://www.hackerrank.com/certificates/ac3e2dc73a5f">Python</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/E7R4CT7R6FF8">Getting Started With Python</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/W42Q8748XXEK">Python Data Structures</a> •
     <a href="https://www.udemy.com/certificate/UC-da98546b-09e1-47d0-8269-ef81c9e9abd5/">Python For DS & ML Bootcamp</a><br>
