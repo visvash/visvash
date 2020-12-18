@@ -29,7 +29,7 @@ I’m waiting for my college to reopen!</p>
   <p align="center">
     <a href="https://www.coursera.org/account/accomplishments/verify/YUQ4PG6W2BUD">Neural Networks & Deep Learning</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/VYBTNSED6J52">Hyparameter Tuning, Regularization & Optimization</a><br>
-    <a href="https://www.hackerrank.com/certificates/ac3e2dc73a5f">Python</a> •
+    <a href="https://www.hackerrank.com/certificates/ac3e2dc73a5f">HackerRank: Python (Basic)</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/E7R4CT7R6FF8">Getting Started With Python</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/W42Q8748XXEK">Python Data Structures</a> •
     <a href="https://www.udemy.com/certificate/UC-da98546b-09e1-47d0-8269-ef81c9e9abd5/">Python For DS & ML Bootcamp</a><br>
