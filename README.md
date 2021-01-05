@@ -37,7 +37,11 @@ I’m waiting for my college to reopen!</p>
     <a href="https://www.coursera.org/account/accomplishments/verify/6VT9V8TJAS6V">SQL For Data Science</a> •
     <a href="https://www.coursera.org/account/accomplishments/verify/9SDA8R2678YQ">AI For Everyone</a><br>
     <a href="https://www.coursera.org/account/accomplishments/verify/HE5MUAQM7T3K">Climate Geospatial Analysis on Python with Xarray</a> • 
-    <a href="https://www.coursera.org/account/accomplishments/verify/YX4GY3RAZKRN">Materials Data Sciences & Informatics</a>
+    <a href="https://www.coursera.org/account/accomplishments/verify/YX4GY3RAZKRN">Materials Data Sciences & Informatics</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/DYS7UJHG7YBH">Video Basics with OpenCV and Python</a> •
+    <a href="https://www.coursera.org/account/accomplishments/verify/S3ARHYQD6F85">Image Processing with Python</a><br>
+    <a href="https://www.coursera.org/account/accomplishments/verify/DKZGCML7D5CU">Support Vector Machines with scikit-learn</a> •
+    <a href="https://www.coursera.org/account/accomplishments/verify/97YQUL8KL4AJ">Linear Regression with NumPy and Python</a>
   </p>
   
 ---
