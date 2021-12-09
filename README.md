@@ -13,7 +13,7 @@
   <a href="mailto:visvashattri303@gmail.com">Email</a> •
   <a href="https://www.homemade-gifts-made-easy.com/image-files/funny-love-quotes-vitamin-me.png">Tinder</a> •
   <img src="https://img.shields.io/github/followers/visvash?label=Follow&style=social"> •
-  <a href="https://www.hackerrank.com/Darth_C0der" title="Darth_c0der"><img border="0" alt="HackerRank" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/lqlkg85sw4sgmp2xvznh" width="25"  height="25"></a>
+  <a href="https://www.hackerrank.com/visvash_attri" title="visvash_attri"><img border="0" alt="HackerRank" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/lqlkg85sw4sgmp2xvznh" width="25"  height="25"></a>
 </p>
 
 ---
