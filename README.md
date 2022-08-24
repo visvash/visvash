@@ -18,7 +18,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/44068838/102390350-4f50c780-3ffa-11eb-8fbe-aade00937c60.gif" align="right" width=80/>
 <h3> About Me </h3>
 <p>I'm currently learning Python.
 I'm open for work opportunities.
